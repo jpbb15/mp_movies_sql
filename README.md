@@ -60,4 +60,4 @@
 ## Credits
 
 - [José Pedro Brandão Linkedin](https://www.linkedin.com/in/jos%C3%A9-pedro-barbosa-brand%C3%A3o-663a172b6/)
-- [Mahshid Khatami]
+- [Mahshid Khatami Linkedin](www.linkedin.com/in/mahshidkhatami-data-analyst)
